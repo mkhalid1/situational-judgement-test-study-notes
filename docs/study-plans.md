@@ -11,8 +11,8 @@ SJTs reward practice differently from maths or verbal tests. You are not learnin
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md). Note your two weakest formats. Find out which format your own test uses. |
-| 2 | The five checks | Read the [most and least guide](sections/most-and-least-effective.md) in full and do all 12 items. Learn the five checks until you can say them without looking. |
-| 3 | Ranking | Read the [ranking guide](sections/ranking-responses.md) and do all 12 items. For every miss, note whether it was at the top, the bottom or in the middle. |
+| 2 | The five checks | Read the [most and least guide](sections/most-and-least-effective.md) in full and do all 5 items. Learn the five checks until you can say them without looking. |
+| 3 | Ranking | Read the [ranking guide](sections/ranking-responses.md) and do all 5 items. For every miss, note whether it was at the top, the bottom or in the middle. |
 | 4 | Rating | Read the [rating effectiveness](sections/rating-effectiveness.md) and [rating importance](sections/rating-importance.md) guides. Do both item sets. Applying to the Civil Service? Read the [Civil Service guide](civil-service.md) today. |
 | 5 | First timed run | Take a full timed practice set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test). Score it by format. For the Civil Service, also try the official practice test linked in the [Civil Service guide](civil-service.md#practise-with-the-official-tools). |
 | 6 | Fix the weakest format | Go back to the traps list for your weakest format. Redo its items without looking at the answers. Then do at least 15 fresh items in that format. |

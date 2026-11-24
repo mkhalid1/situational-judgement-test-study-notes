@@ -35,7 +35,7 @@ You read workplace scenarios. Each has **four actions**, and you rate each actio
 
 There are **three scenarios per Behaviour**, with four actions each. Rate each action on its own: several actions can get the same rating.
 
-The method and 16 practice items for this format are in the [rating effectiveness guide](sections/rating-effectiveness.md). The Civil Service scale is used in its first two scenarios.
+The method and 5 practice items for this format are in the [rating effectiveness guide](sections/rating-effectiveness.md). The Civil Service scale is used in its first scenario.
 
 ## Timing
 

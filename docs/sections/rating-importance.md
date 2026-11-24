@@ -54,7 +54,7 @@ In the UCAT, importance items share the 26 minutes for 69 questions, so plan on 
 
 ## Practice items
 
-These 16 items are original, written for these notes. Rate each consideration: Very important, Important, Of minor importance, or Not important at all.
+These 5 items are original, written for these notes. Rate each consideration: Very important, Important, Of minor importance, or Not important at all.
 
 ### Scenario 1
 
@@ -89,98 +89,30 @@ How important are each of the following for Callum in deciding how to respond?
 
 How important are each of the following for Daniel in deciding what to do?
 
-**Item 5.** That Daniel is not qualified to give the patient treatment.
-
-**Item 6.** That Daniel has not yet been introduced to the ward manager.
-
-**Item 7.** The risk that the patient might fall and hurt themselves.
-
-**Item 8.** Whether the patient's family are due to visit later today.
+**Item 5.** Whether the patient's family are due to visit later today.
 
 <details>
-<summary>Answers and explanations, items 5 to 8</summary>
+<summary>Answers and explanations, item 5</summary>
 
-**Item 5: Very important.** It decides what Daniel can safely do: keep the patient from falling and get a member of staff straight away, not try to treat them. Getting this wrong could harm the patient. *Why not Important:* the limits of his role are central to every option he has here, alongside the safety risk in item 7.
-
-**Item 6: Not important at all.** Whether he has met the ward manager has no bearing on keeping the patient safe. He can call any member of staff.
-
-**Item 7: Very important.** Patient safety is the core of this decision.
-
-**Item 8: Of minor importance.** The family might help settle the patient later, but they are not there now and the risk is now. *Why not Not important at all:* it is slightly relevant to the patient's care over the day.
+**Item 5: Of minor importance.** The family might help settle the patient later, but they are not there now and the risk is now. *Why not Not important at all:* it is slightly relevant to the patient's care over the day.
 
 </details>
 
-### Scenario 3
-
-> Ravi is a graduate trainee. His manager has asked him to recommend a supplier for the office's printing contract. One of the three suppliers bidding is run by Ravi's cousin. The company has a policy on declaring conflicts of interest.
-
-How important are each of the following for Ravi in deciding how to handle the recommendation?
-
-**Item 9.** That his cousin would be disappointed not to win the contract.
-
-**Item 10.** The company's policy on declaring conflicts of interest.
-
-**Item 11.** That his cousin's company has submitted the lowest quote.
-
-**Item 12.** That his manager wants the recommendation in three weeks' time.
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: Not important at all.** His cousin's feelings must play no part in a fair business decision.
-
-**Item 10: Very important.** Ravi must declare the conflict before he does anything else, and the policy tells him how.
-
-**Item 11: Important.** Cost is a real part of choosing a supplier, so the quote must be weighed, but openly and probably by someone else given the conflict. *Why not Very important:* it cannot decide how Ravi handles his own conflict. *Why not minor:* price genuinely matters to the company's decision.
-
-**Item 12: Of minor importance.** Three weeks is plenty of time, so the deadline only affects when he does things, not what he does. He should still declare the conflict straight away. *Why not Important:* nothing about the deadline puts pressure on the decision.
-
-</details>
-
-### Scenario 4
-
-> Megan is a student with a part-time job in a shop. On Monday her shift manager asks her to work an extra evening shift on Thursday. Megan has an important university exam on Friday morning.
-
-How important are each of the following for Megan in deciding whether to accept the shift?
-
-**Item 13.** The extra pay she would earn from the shift.
-
-**Item 14.** Megan's need to be rested and prepared for her exam.
-
-**Item 15.** That her manager seemed to be in a bad mood when asking.
-
-**Item 16.** Whether she could offer to work a different extra shift later in the week instead.
-
-<details>
-<summary>Answers and explanations, items 13 to 16</summary>
-
-**Item 13: Of minor importance.** Money matters to most students, but a single shift's pay should not outweigh an exam the next day.
-
-**Item 14: Very important.** Her studies are her main commitment, and the exam is the next morning. This should drive the decision.
-
-**Item 15: Not important at all.** Her manager's mood should not influence whether she takes the shift.
-
-**Item 16: Important.** An alternative lets her help the shop without risking the exam, so it shapes how she responds. *Why not Very important:* it is a way of acting on the decision, not the reason for it.
-
-</details>
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| Answer | VI | N | N | I | VI | N | VI | M |
-
-| Item | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---|---|---|---|---|---|---|---|---|
-| Answer | N | VI | I | M | M | VI | N | I |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | VI | N | N | I | M |
 
 Key: VI = Very important, I = Important, M = Of minor importance, N = Not important at all.
 
-Notice that scenarios 1 and 2 use some labels twice and skip others. Real tests work the same way: several factors can share a label, and some labels may not appear at all. Judge every factor on its own.
+Notice that scenario 1 uses one label twice and skips another. Real tests work the same way: several factors can share a label, and some labels may not appear at all. Judge every factor on its own.
 
-- **14 to 16:** you are reading the decision correctly.
-- **10 to 13:** check whether you are promoting personal factors (friendship, money, convenience) too high. Reread trap 3.
-- **9 or fewer:** go back to step 1 and write the decision down before rating anything.
+- **5:** you are reading the decision correctly.
+- **4:** check whether you are promoting personal factors (friendship, money, convenience) too high. Reread trap 3.
+- **3 or fewer:** go back to step 1 and write the decision down before rating anything.
 
 ## Next step
 

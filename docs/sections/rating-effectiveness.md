@@ -66,7 +66,7 @@ As guidance: once you have named the problem, each rating should take about 15 s
 
 ## Practice items
 
-These 16 items are original, written for these notes. Scenarios 1 and 2 use the Civil Service scale. Scenarios 3 and 4 use the UCAT appropriateness scale. Rate each action on its own.
+These 5 items are original, written for these notes. Scenario 1 uses the Civil Service scale. Scenario 2 uses the UCAT appropriateness scale. Rate each action on its own.
 
 ### Scenario 1 (Civil Service scale)
 
@@ -95,102 +95,34 @@ Rate each action: Effective, Fairly Effective, Ineffective or Counterproductive.
 
 </details>
 
-### Scenario 2 (Civil Service scale)
-
-> You have recently joined a policy team and you are chairing next week's team meeting. In past meetings, one colleague often talks over a quieter colleague, whose ideas are usually good.
-
-Rate each action: Effective, Fairly Effective, Ineffective or Counterproductive.
-
-**Item 5.** Tell the talkative colleague, in front of the group, that they always dominate meetings.
-
-**Item 6.** Speak to the quieter colleague afterwards and encourage them to speak up more.
-
-**Item 7.** Plan the meeting so everyone gets a turn, for example a round of views on each topic, and invite the quieter colleague by name to share their idea.
-
-**Item 8.** Leave it. The meetings have always run this way.
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: Counterproductive.** Criticising a colleague's character in public is likely to cause conflict and embarrassment, and it does not make the meeting fairer. *Why not Fairly Effective:* even if it stops the interrupting for a while, it damages the team.
-
-**Item 6: Fairly Effective.** It supports the quieter colleague and may help. But it puts the burden on them and leaves the meeting itself unchanged. *Why not Effective:* the chair has a more direct fix. *Why not Ineffective:* it does help a little.
-
-**Item 7: Effective.** As chair it is your job to run a fair meeting. A structure that gives everyone a turn solves the problem without singling anyone out.
-
-**Item 8: Ineffective.** Nothing changes, and good ideas are still lost. Nothing is made worse.
-
-</details>
-
-### Scenario 3 (UCAT appropriateness scale)
-
-> Aisha is a medical student. Her clinical supervisor has asked her to present a patient case at Friday's teaching session. On Wednesday she realises she has also agreed to attend a compulsory exam briefing at the same time.
-
-How appropriate are each of the following responses by Aisha? Choose: A very appropriate thing to do, Appropriate but not ideal, Inappropriate but not awful, or A very inappropriate thing to do.
-
-**Item 9.** Aisha emails her supervisor on Friday morning to say she cannot come.
-
-**Item 10.** Aisha tells her supervisor about the clash straight away and asks whether she could present at another session.
-
-**Item 11.** Aisha misses the teaching session and says nothing.
-
-**Item 12.** Aisha asks a fellow student to present the case instead, then tells her supervisor.
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: Inappropriate, but not awful.** She does tell her supervisor, but so late that nobody can plan around it. *Why not very inappropriate:* she is honest and does warn them.
-
-**Item 10: A very appropriate thing to do.** She is honest, gives plenty of notice and lets the supervisor decide. *Why not Appropriate but not ideal:* nothing important is missing.
-
-**Item 11: A very inappropriate thing to do.** She lets down her supervisor and the group, wastes their time and damages trust. *Why not inappropriate but not awful:* this is unprofessional behaviour that leaves the session with a gap and no warning.
-
-**Item 12: Appropriate, but not ideal.** The session is covered and the supervisor is told, so it helps. But Aisha has made the decision for her supervisor, who may want her to present, or may not want another student to. *Why not very appropriate:* the supervisor should be asked first.
-
-</details>
-
-### Scenario 4 (UCAT appropriateness scale)
+### Scenario 2 (UCAT appropriateness scale)
 
 > Sara is a medical student. She has been given some printed patient notes to read for a case write-up. At home that evening, she realises she has accidentally taken the printed notes home in her bag.
 
-How appropriate are each of the following responses by Sara?
+How appropriate are each of the following responses by Sara? Choose: A very appropriate thing to do, Appropriate but not ideal, Inappropriate but not awful, or A very inappropriate thing to do.
 
-**Item 13.** Sara brings the notes back the next day and puts them back without telling anyone.
-
-**Item 14.** Sara uses the notes at home to finish her write-up, then throws them in her recycling bin.
-
-**Item 15.** Sara keeps the notes secure, brings them back the next day and tells her supervisor what happened, so it can be handled under the confidentiality policy.
-
-**Item 16.** Sara leaves the notes in her bag until her next placement day, two weeks later.
+**Item 5.** Sara brings the notes back the next day and puts them back without telling anyone.
 
 <details>
-<summary>Answers and explanations, items 13 to 16</summary>
+<summary>Answers and explanations, item 5</summary>
 
-**Item 13: Inappropriate, but not awful.** The notes come back quickly, which limits the risk. But hiding a confidentiality slip fails the honesty check: nobody can confirm the notes were not seen, and nothing is learned. *Why not appropriate, but not ideal:* keeping a breach of patient confidentiality quiet is more than a small gap. *Why not very inappropriate:* the notes are returned the next day and she does not misuse them.
-
-**Item 14: A very inappropriate thing to do.** Patient information leaves the hospital, is used at home and is then thrown away where anyone could find it. That is a serious breach of confidentiality.
-
-**Item 15: A very appropriate thing to do.** The notes are kept safe, returned quickly, and the slip is reported so it can be dealt with properly. Being open about a mistake is part of professional behaviour.
-
-**Item 16: A very inappropriate thing to do.** Confidential patient notes stay outside the hospital for two weeks, unreported, where they could be lost or seen, and the people responsible for them do not know they are missing. *Why not inappropriate, but not awful:* compare item 13, where they come back the next day. Two weeks of unsecured, unreported patient information is a serious breach even without bad intent.
+**Item 5: Inappropriate, but not awful.** The notes come back quickly, which limits the risk. But hiding a confidentiality slip fails the honesty check: nobody can confirm the notes were not seen, and nothing is learned. *Why not appropriate, but not ideal:* keeping a breach of patient confidentiality quiet is more than a small gap. *Why not very inappropriate:* the notes are returned the next day and she does not misuse them.
 
 </details>
 
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| Answer | I | E | C | FE | C | FE | E | I |
-
-| Item | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---|---|---|---|---|---|---|---|---|
-| Answer | IA | VA | VI | A | IA | VI | VA | VI |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | I | E | C | FE | IA |
 
 Key: E = Effective, FE = Fairly Effective, I = Ineffective, C = Counterproductive. VA = A very appropriate thing to do, A = Appropriate but not ideal, IA = Inappropriate but not awful, VI = A very inappropriate thing to do.
 
-- **14 to 16:** your sense of the scale is well calibrated.
-- **10 to 13:** look for one-step misses. If you often put "do nothing" at the bottom, reread the second trap. If you often put helpful-but-incomplete actions at the top, reread step 4.
-- **9 or fewer:** go back to the label table and the two-question test. Say the questions out loud for each action until they become habit.
+- **5:** your sense of the scale is well calibrated.
+- **4:** look for one-step misses. If you often put "do nothing" at the bottom, reread the second trap. If you often put helpful-but-incomplete actions at the top, reread step 4.
+- **3 or fewer:** go back to the label table and the two-question test. Say the questions out loud for each action until they become habit.
 
 ## Next step
 

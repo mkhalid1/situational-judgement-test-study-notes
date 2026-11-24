@@ -1,12 +1,12 @@
 # Situational Judgement Test Study Notes
 
-A free, complete study guide for situational judgement tests (SJTs): how they work, one clear method that applies to every format, 68 original practice items with full explanations, how scoring really works, and study plans for a week or a weekend. Written for anyone facing an employer or graduate-scheme SJT, with a dedicated guide for the UK Civil Service Judgement Test and notes on the UCAT SJT for medical and dental applicants. Facts about named tests come only from GOV.UK and the UCAT, each one [cited](docs/sources.md).
+A free, complete study guide for situational judgement tests (SJTs): how they work, one clear method that applies to every format, 28 original practice items with full explanations, how scoring really works, and study plans for a week or a weekend. Written for anyone facing an employer or graduate-scheme SJT, with a dedicated guide for the UK Civil Service Judgement Test and notes on the UCAT SJT for medical and dental applicants. Facts about named tests come only from GOV.UK and the UCAT, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak formats.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items for each format and tells you where to start.
+1. **Find your weak formats.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items for each format and tells you where to start.
 2. **Learn the five checks, then fix your weakest format.** Every guide uses the same frame, first set out in [most and least effective](docs/sections/most-and-least-effective.md#the-scoring-frame-used-in-these-notes). Then work through the guide for your weakest format.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
@@ -37,7 +37,7 @@ Sources: [GOV.UK: Preparing for the Civil Service Judgement Test](https://www.go
 | Rating effectiveness | How good each action is, on its own | Effective to Counterproductive, or Very appropriate to Very inappropriate | [Rating effectiveness](docs/sections/rating-effectiveness.md) |
 | Rating importance | How much each factor should weigh in a decision | Very important to Not important at all | [Rating importance](docs/sections/rating-importance.md) |
 
-Every format guide has the same parts: what it measures, how the questions look, the scoring frame, a step-by-step method, the traps that cost points, timing advice, 12 to 16 original practice items with explanations, and a score table.
+Every format guide has the same parts: what it measures, how the questions look, the scoring frame, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -168,7 +168,7 @@ Every format guide has the same parts: what it measures, how the questions look,
 
 ## About the practice items
 
-All 68 practice items (56 in the format guides and 12 in the diagnostic) are original, written for these notes. None are taken from the Civil Service Judgement Test, the UCAT, any employer's test or any prep site. They are set in offices, shops, hospitals, care homes, schools, public services and graduate schemes, and keyed against one stated frame, so that the reasoning you learn here transfers to the real test.
+All 28 practice items (20 in the format guides and 8 in the diagnostic) are original, written for these notes. None are taken from the Civil Service Judgement Test, the UCAT, any employer's test or any prep site. They are set in offices, shops, hospitals, care homes, schools, public services and graduate schemes, and keyed against one stated frame, so that the reasoning you learn here transfers to the real test.
 
 Real SJT keys come from panels of people in each role, so a real test may weigh a situation a little differently from these notes. Where that happens, follow the rules and role described in your own test's scenario.
 
