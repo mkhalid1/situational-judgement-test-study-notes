@@ -23,7 +23,7 @@ Choose the **most effective** and the **least effective** option.
 
 - A. Keep it behind the till and wait to see whether they come back.
 - B. Call after them if they are still in sight. If not, hand it to your supervisor and log it under the lost property procedure.
-- C. Look inside to find their address and post it to them yourself.
+- C. Ask the next customer in the queue whether they saw who left it.
 - D. Leave it on the counter in case they come back for it.
 
 **D3.** You are a hospital porter. A visitor asks you which ward a named patient is on, and what they are in hospital for.
@@ -86,7 +86,7 @@ How important are each of the following for Nadia in deciding whether to stay? C
 
 **D1: Most A, least C.** A asks for help early and gets moving. C hides the problem until it is too late to fix. *Why not D as least:* it might produce something unusable, but at least work is done.
 
-**D2: Most B, least D.** B tries to return it straight away and otherwise follows the procedure. D leaves someone's purse unattended where anyone could take it. *Why not C as least:* looking through someone's purse is intrusive and outside procedure, but it is aimed at returning it.
+**D2: Most B, least D.** B tries to return it straight away and otherwise follows the procedure. D leaves someone's purse unattended where anyone could take it. *Why not C as least:* asking another customer is unlikely to help, but it does no harm while you decide what to do.
 
 **D3: Most B, least A.** B gets the visitor to people who can check what can be shared. A discloses medical information to someone whose relationship to the patient you do not know. *Why not C as most:* even the ward can be private, and staff are better placed to check.
 

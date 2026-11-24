@@ -166,13 +166,13 @@ How appropriate are each of the following responses by Sara?
 <details>
 <summary>Answers and explanations, items 13 to 16</summary>
 
-**Item 13: Appropriate, but not ideal.** The notes are returned safely and quickly, which is the main thing. But the slip is not reported, so it cannot be checked or learned from. *Why not very appropriate:* honesty about a confidentiality slip matters. *Why not inappropriate:* the notes are back and nobody has seen them.
+**Item 13: Inappropriate, but not awful.** The notes come back quickly, which limits the risk. But hiding a confidentiality slip fails the honesty check: nobody can confirm the notes were not seen, and nothing is learned. *Why not appropriate, but not ideal:* keeping a breach of patient confidentiality quiet is more than a small gap. *Why not very inappropriate:* the notes are returned the next day and she does not misuse them.
 
 **Item 14: A very inappropriate thing to do.** Patient information leaves the hospital, is used at home and is then thrown away where anyone could find it. That is a serious breach of confidentiality.
 
 **Item 15: A very appropriate thing to do.** The notes are kept safe, returned quickly, and the slip is reported so it can be dealt with properly. Being open about a mistake is part of professional behaviour.
 
-**Item 16: Inappropriate, but not awful.** The notes are not shared, but they stay outside the hospital for two weeks, where they could be lost or seen. *Why not very inappropriate:* she does not misuse or expose them on purpose.
+**Item 16: A very inappropriate thing to do.** Confidential patient notes stay outside the hospital for two weeks, unreported, where they could be lost or seen, and the people responsible for them do not know they are missing. *Why not inappropriate, but not awful:* compare item 13, where they come back the next day. Two weeks of unsecured, unreported patient information is a serious breach even without bad intent.
 
 </details>
 
@@ -184,7 +184,7 @@ How appropriate are each of the following responses by Sara?
 
 | Item | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 |---|---|---|---|---|---|---|---|---|
-| Answer | IA | VA | VI | A | A | VI | VA | IA |
+| Answer | IA | VA | VI | A | IA | VI | VA | VI |
 
 Key: E = Effective, FE = Fairly Effective, I = Ineffective, C = Counterproductive. VA = A very appropriate thing to do, A = Appropriate but not ideal, IA = Inappropriate but not awful, VI = A very inappropriate thing to do.
 

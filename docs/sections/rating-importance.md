@@ -75,7 +75,7 @@ How important are each of the following for Callum in deciding how to respond?
 
 **Item 1: Very important.** Sharing assessed work risks breaking a stated rule, for both students. The decision cannot be right without it.
 
-**Item 2: Of minor importance.** The friendship is real and may affect how kindly he says no, but a past favour should not override the rule. *Why not Not important at all:* it does reasonably affect his tone.
+**Item 2: Not important at all.** A past favour creates no obligation to share assessed work, and it cannot change what the rule requires. *Why not Of minor importance:* the question is what Callum should weigh in deciding how to respond, and this favour should carry no weight in that decision.
 
 **Item 3: Not important at all.** Whether the essay is good or bad has nothing to do with whether he should share it.
 
@@ -100,7 +100,7 @@ How important are each of the following for Daniel in deciding what to do?
 <details>
 <summary>Answers and explanations, items 5 to 8</summary>
 
-**Item 5: Important.** It shapes what Daniel should do: keep the patient safe and get a member of staff, not try to treat or sedate them. *Why not Very important:* it guides his action, but the safety risk is the reason to act at all.
+**Item 5: Very important.** It decides what Daniel can safely do: keep the patient from falling and get a member of staff straight away, not try to treat them. Getting this wrong could harm the patient. *Why not Important:* the limits of his role are central to every option he has here, alongside the safety risk in item 7.
 
 **Item 6: Not important at all.** Whether he has met the ward manager has no bearing on keeping the patient safe. He can call any member of staff.
 
@@ -122,7 +122,7 @@ How important are each of the following for Ravi in deciding how to handle the r
 
 **Item 11.** That his cousin's company has submitted the lowest quote.
 
-**Item 12.** That his manager wants a recommendation by Friday.
+**Item 12.** That his manager wants the recommendation in three weeks' time.
 
 <details>
 <summary>Answers and explanations, items 9 to 12</summary>
@@ -133,7 +133,7 @@ How important are each of the following for Ravi in deciding how to handle the r
 
 **Item 11: Important.** Cost is a real part of choosing a supplier, so the quote must be weighed, but openly and probably by someone else given the conflict. *Why not Very important:* it cannot decide how Ravi handles his own conflict. *Why not minor:* price genuinely matters to the company's decision.
 
-**Item 12: Of minor importance.** The deadline affects timing, so he should declare the conflict quickly, but it should not change what he does.
+**Item 12: Of minor importance.** Three weeks is plenty of time, so the deadline only affects when he does things, not what he does. He should still declare the conflict straight away. *Why not Important:* nothing about the deadline puts pressure on the decision.
 
 </details>
 
@@ -168,7 +168,7 @@ How important are each of the following for Megan in deciding whether to accept 
 
 | Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Answer | VI | M | N | I | I | N | VI | M |
+| Answer | VI | N | N | I | VI | N | VI | M |
 
 | Item | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 |---|---|---|---|---|---|---|---|---|
@@ -176,7 +176,7 @@ How important are each of the following for Megan in deciding whether to accept 
 
 Key: VI = Very important, I = Important, M = Of minor importance, N = Not important at all.
 
-Each practice scenario here happens to use every label once, so you can see the whole scale. Real tests will not do that: several factors can share a label, and some labels may not appear at all. Judge every factor on its own.
+Notice that scenarios 1 and 2 use some labels twice and skip others. Real tests work the same way: several factors can share a label, and some labels may not appear at all. Judge every factor on its own.
 
 - **14 to 16:** you are reading the decision correctly.
 - **10 to 13:** check whether you are promoting personal factors (friendship, money, convenience) too high. Reread trap 3.
