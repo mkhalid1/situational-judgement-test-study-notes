@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # Situational judgement tests explained
 
@@ -63,4 +65,6 @@ Reading about SJTs helps, but scenarios feel different on screen and against a c
 
 ---
 
-<!-- nav:bottom -->Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

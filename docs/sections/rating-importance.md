@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Rating effectiveness](rating-effectiveness.md) · Next: [How SJT scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Rating effectiveness](rating-effectiveness.md) · Next: [How SJT scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Rating importance
 
@@ -120,4 +122,6 @@ Importance items feel strange until you have done a few dozen. Practise more in 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Rating effectiveness](rating-effectiveness.md) | Next: [How SJT scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Rating effectiveness](rating-effectiveness.md) | Next: [How SJT scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

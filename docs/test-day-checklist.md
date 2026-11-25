@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For Civil Service applicants](civil-service.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For Civil Service applicants](civil-service.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -54,4 +56,6 @@ If your test is in a few days, do one short timed set in the [free situational j
 
 ---
 
-<!-- nav:bottom -->← Previous: [For Civil Service applicants](civil-service.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For Civil Service applicants](civil-service.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

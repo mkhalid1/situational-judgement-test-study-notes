@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Situational judgement tests explained](test-overview.md) · Next: [Most and least effective](sections/most-and-least-effective.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Situational judgement tests explained](test-overview.md) · Next: [Most and least effective](sections/most-and-least-effective.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -99,4 +101,6 @@ How important are each of the following for Nadia in deciding whether to stay? C
 
 ---
 
-<!-- nav:bottom -->← Previous: [Situational judgement tests explained](test-overview.md) | Next: [Most and least effective](sections/most-and-least-effective.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Situational judgement tests explained](test-overview.md) | Next: [Most and least effective](sections/most-and-least-effective.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

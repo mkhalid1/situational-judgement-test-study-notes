@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Most and least effective](most-and-least-effective.md) · Next: [Rating effectiveness](rating-effectiveness.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Most and least effective](most-and-least-effective.md) · Next: [Rating effectiveness](rating-effectiveness.md)
+<!-- /nav:top -->
 
 # Ranking responses
 
@@ -151,4 +153,6 @@ Ranking gets quicker with repetition. Try a timed set in the [free situational j
 
 ---
 
-<!-- nav:bottom -->← Previous: [Most and least effective](most-and-least-effective.md) | Next: [Rating effectiveness](rating-effectiveness.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Most and least effective](most-and-least-effective.md) | Next: [Rating effectiveness](rating-effectiveness.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

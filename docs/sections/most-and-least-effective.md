@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Ranking responses](ranking-responses.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Ranking responses](ranking-responses.md)
+<!-- /nav:top -->
 
 # Most and least effective
 
@@ -134,4 +136,6 @@ Most-and-least items are fast once the five checks are automatic. Practise them 
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Ranking responses](ranking-responses.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Ranking responses](ranking-responses.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

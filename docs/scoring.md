@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Rating importance](sections/rating-importance.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Rating importance](sections/rating-importance.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)
+<!-- /nav:top -->
 
 # How SJT scoring works
 
@@ -71,4 +73,6 @@ Each SJT is keyed to its own role and framework. A response that is best for a h
 
 ---
 
-<!-- nav:bottom -->← Previous: [Rating importance](sections/rating-importance.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Rating importance](sections/rating-importance.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

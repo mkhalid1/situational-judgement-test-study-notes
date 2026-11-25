@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Ranking responses](ranking-responses.md) · Next: [Rating importance](rating-importance.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Ranking responses](ranking-responses.md) · Next: [Rating importance](rating-importance.md)
+<!-- /nav:top -->
 
 # Rating effectiveness
 
@@ -130,4 +132,6 @@ Rating is the format where careful practice pays off fastest. Try more scenarios
 
 ---
 
-<!-- nav:bottom -->← Previous: [Ranking responses](ranking-responses.md) | Next: [Rating importance](rating-importance.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Ranking responses](ranking-responses.md) | Next: [Rating importance](rating-importance.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
