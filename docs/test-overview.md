@@ -61,7 +61,7 @@ Two things follow:
 
 ## Practise the real format
 
-Reading about SJTs helps, but scenarios feel different on screen and against a clock. Try the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test) to get used to the pace, and the official [Civil Service Judgement Test practice test](https://eubusiness.panpowered.com/Civil_Service_Practice/CSJT_practice) if you are applying to the Civil Service. GOV.UK says the practice test is not scored.
+Reading about SJTs helps, but scenarios feel different on screen and against a clock. Try the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test) to get used to the pace, and the official [Civil Service Judgement Test practice test](https://eubusiness.panpowered.com/Civil_Service_Practice/CSJT_practice) if you are applying to the Civil Service. GOV.UK says the practice test is not scored.
 
 ---
 

@@ -16,7 +16,7 @@ SJTs reward practice differently from maths or verbal tests. You are not learnin
 | 2 | The five checks | Read the [most and least guide](sections/most-and-least-effective.md) in full and do all 5 items. Learn the five checks until you can say them without looking. |
 | 3 | Ranking | Read the [ranking guide](sections/ranking-responses.md) and do all 5 items. For every miss, note whether it was at the top, the bottom or in the middle. |
 | 4 | Rating | Read the [rating effectiveness](sections/rating-effectiveness.md) and [rating importance](sections/rating-importance.md) guides. Do both item sets. Applying to the Civil Service? Read the [Civil Service guide](civil-service.md) today. |
-| 5 | First timed run | Take a full timed practice set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test). Score it by format. For the Civil Service, also try the official practice test linked in the [Civil Service guide](civil-service.md#practise-with-the-official-tools). |
+| 5 | First timed run | Take a full timed practice set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test). Score it by format. For the Civil Service, also try the official practice test linked in the [Civil Service guide](civil-service.md#practise-with-the-official-tools). |
 | 6 | Fix the weakest format | Go back to the traps list for your weakest format. Redo its items without looking at the answers. Then do at least 15 fresh items in that format. |
 | 7 | Second run and rest | Do a second timed set in the morning. Compare it with day 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
@@ -41,7 +41,7 @@ For when the link has arrived and the deadline is close. GOV.UK advises taking t
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 15 min | Read "The scoring frame used in these notes" and "Traps that cost points" in the [most and least guide](sections/most-and-least-effective.md). |
 | 3 | 30 min | Do the practice items for the format your real test uses. Read every explanation, including the ones you got right. |
-| 4 | 30 min | Take a timed practice set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test). |
+| 4 | 30 min | Take a timed practice set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test). |
 | 5 | 15 min | Review every miss with the three questions above. |
 
 ### Day 2: sit the test

@@ -133,7 +133,7 @@ These 5 items are original, written for these notes. Rank the four options in ea
 
 </details>
 
-Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test)
 
 ## Score yourself
 
@@ -149,7 +149,7 @@ Give yourself one mark for every option you placed in the correct position, so u
 
 ## Next step
 
-Ranking gets quicker with repetition. Try a timed set in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), and keep a note of any item where your rank 2 and rank 3 were the wrong way round.
+Ranking gets quicker with repetition. Try a timed set in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test), and keep a note of any item where your rank 2 and rank 3 were the wrong way round.
 
 ---
 

@@ -8,7 +8,7 @@ Eight original items, two for each SJT format, to show you where to start. Set a
 
 These items are original, written for these notes. They are not taken from any employer's or publisher's test. They are keyed against the five checks explained in the [most and least guide](sections/most-and-least-effective.md#the-scoring-frame-used-in-these-notes): deal with the real problem, keep people safe and treat them with respect, be honest and follow the rules, stay within your role and involve the right person, and act in good time.
 
-If you already know the formats, skip this and take the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test) instead.
+If you already know the formats, skip this and take the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test) instead.
 
 ## Part A: Most and least effective
 

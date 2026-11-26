@@ -52,7 +52,7 @@ And throughout:
 
 ## Last practice before the real one
 
-If your test is in a few days, do one short timed set in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), review the misses with the three questions in the [study plans](study-plans.md#how-to-review-a-missed-item), and then rest.
+If your test is in a few days, do one short timed set in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test), review the misses with the three questions in the [study plans](study-plans.md#how-to-review-a-missed-item), and then rest.
 
 ---
 

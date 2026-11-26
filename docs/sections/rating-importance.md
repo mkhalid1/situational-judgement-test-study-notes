@@ -100,7 +100,7 @@ How important are each of the following for Daniel in deciding what to do?
 
 </details>
 
-Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test)
 
 ## Score yourself
 
@@ -118,7 +118,7 @@ Notice that scenario 1 uses one label twice and skips another. Real tests work t
 
 ## Next step
 
-Importance items feel strange until you have done a few dozen. Practise more in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), and keep a note of any factor you rated more than one step away from the key.
+Importance items feel strange until you have done a few dozen. Practise more in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test), and keep a note of any factor you rated more than one step away from the key.
 
 ---
 

@@ -71,7 +71,7 @@ More on percentiles is in [how scoring works](scoring.md#civil-service-judgement
 
 ## Practise with the official tools
 
-GOV.UK links an unscored [CSJT practice test](https://eubusiness.panpowered.com/Civil_Service_Practice/CSJT_practice) and a [short video about the test](https://youtu.be/Vudzn3BqSXk). Take the practice test once to get used to the screens. Then use the [rating effectiveness items](sections/rating-effectiveness.md) and the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test) to build the habit.
+GOV.UK links an unscored [CSJT practice test](https://eubusiness.panpowered.com/Civil_Service_Practice/CSJT_practice) and a [short video about the test](https://youtu.be/Vudzn3BqSXk). Take the practice test once to get used to the screens. Then use the [rating effectiveness items](sections/rating-effectiveness.md) and the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test) to build the habit.
 
 ## Do and don't
 

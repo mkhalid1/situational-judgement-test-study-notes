@@ -112,7 +112,7 @@ How appropriate are each of the following responses by Sara? Choose: A very appr
 
 </details>
 
-Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test)
 
 ## Score yourself
 
@@ -128,7 +128,7 @@ Key: E = Effective, FE = Fairly Effective, I = Ineffective, C = Counterproductiv
 
 ## Next step
 
-Rating is the format where careful practice pays off fastest. Try more scenarios in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), and if you are applying to the Civil Service, read the [Civil Service Judgement Test guide](../civil-service.md) next.
+Rating is the format where careful practice pays off fastest. Try more scenarios in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test), and if you are applying to the Civil Service, read the [Civil Service Judgement Test guide](../civil-service.md) next.
 
 ---
 

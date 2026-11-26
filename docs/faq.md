@@ -72,7 +72,7 @@ No. Each employer or admissions body uses its own test, keyed to its own role an
 ## Where can I practise for free?
 
 - The [practice items in these notes](../README.md#the-four-formats-at-a-glance): 20 items across four formats, plus an 8-item diagnostic
-- The [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+- The [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test)
 - The official [CSJT practice test](https://eubusiness.panpowered.com/Civil_Service_Practice/CSJT_practice) for Civil Service applicants
 
 ---

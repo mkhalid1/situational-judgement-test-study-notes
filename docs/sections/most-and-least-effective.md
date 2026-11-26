@@ -115,7 +115,7 @@ These 5 items are original, written for these notes. They are not taken from any
 
 </details>
 
-Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test)
+Want more? The free timed SJT practice test on PrepClubs has the full 45 questions, scored by section: [prepclubs.com/free-practice-tests/sjt](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test)
 
 ## Score yourself
 
@@ -132,7 +132,7 @@ Give yourself one mark for each correct "most" and one for each correct "least",
 
 ## Next step
 
-Most-and-least items are fast once the five checks are automatic. Practise them against the clock in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=situational-judgement-test), then come back to the traps list for any you missed.
+Most-and-least items are fast once the five checks are automatic. Practise them against the clock in the [free situational judgement practice test on PrepClubs](https://prepclubs.com/free-practice-tests/sjt?utm_source=github&utm_medium=referral&utm_campaign=xt9w5q&utm_content=situational-judgement-test), then come back to the traps list for any you missed.
 
 ---
 
